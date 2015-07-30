@@ -14,7 +14,7 @@ public class TourismInterceptor implements HandlerInterceptor {
 			HttpServletResponse arg1, Object arg2, Exception arg3)
 			throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("第二次修改");
+		System.out.println("第三次修改");
 		
 	}
 
